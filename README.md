@@ -319,9 +319,9 @@
       </div>
 
       <div class="text-center">
-       <p class="text-slate-400 mb-2">De <span id="original-price" class="line-through text-red-400">R$ 97,00</span></p>
+       <p class="text-slate-400 mb-2">De <span id="original-price" class="line-through text-red-400">R$ 67,00</span></p>
        <p class="text-slate-300 mb-1">Por apenas</p>
-       <p class="text-6xl font-extrabold gradient-text mb-2" id="sale-price">R$ 47,00</p>
+       <p class="text-6xl font-extrabold gradient-text mb-2" id="sale-price">R$ 27,00</p>
        <p class="text-emerald-400 mb-6">ou 6x de R$ 8,50</p>
 
        <button id="cta-button-pricing" class="w-full bg-emerald-500 hover:bg-emerald-400 text-slate-900 font-bold text-xl py-5 rounded-2xl transition-all duration-300 transform hover:scale-105 pulse-glow mb-4">
